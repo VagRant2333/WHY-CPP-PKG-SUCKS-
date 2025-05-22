@@ -2,10 +2,10 @@
 
 ## AUTHOR: VagRant
 
-<font color=red> just to let you know, with copilot nowadays, coding this costs 5 min and then you would spend 5 hour on vcpkg and so on, 
-fighting against corruption between macOS, Windows, VSCode, CMake etc.</font>
+<font color=red> just to let you know, with copilot nowadays, coding this costs 5 min and then you would spend 5 hours on vcpkg and so on, 
+fighting against collision between macOS, Windows, VSCode, CMake etc.</font>
 
-*note:use CMake to build*
+*note : use CMake to build*
 
 ## License
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
