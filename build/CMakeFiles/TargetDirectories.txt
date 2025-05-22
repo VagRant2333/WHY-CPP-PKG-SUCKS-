@@ -1,0 +1,3 @@
+/Users/vagrant/Documents/cpp/lab7/build/CMakeFiles/cal.dir
+/Users/vagrant/Documents/cpp/lab7/build/CMakeFiles/edit_cache.dir
+/Users/vagrant/Documents/cpp/lab7/build/CMakeFiles/rebuild_cache.dir
